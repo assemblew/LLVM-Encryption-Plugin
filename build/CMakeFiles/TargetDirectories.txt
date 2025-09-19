@@ -1,0 +1,13 @@
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/CMakeFiles/intrinsics_gen.dir
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/CMakeFiles/vt_gen.dir
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/CMakeFiles/omp_gen.dir
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/CMakeFiles/acc_gen.dir
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/CMakeFiles/ARMTargetParserTableGen.dir
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/CMakeFiles/AArch64TargetParserTableGen.dir
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/CMakeFiles/clang-tablegen-targets.dir
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/CMakeFiles/edit_cache.dir
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/CMakeFiles/rebuild_cache.dir
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/lib/CMakeFiles/Encryption.dir
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/lib/CMakeFiles/edit_cache.dir
+/Users/assemblew/Downloads/llvm-project-llvmorg-20.1.2/plugins/build/lib/CMakeFiles/rebuild_cache.dir
